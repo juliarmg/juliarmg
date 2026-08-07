@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:0a0a2e,100:0d47a1&height=280&section=header&text=JULIA%20DEV&fontSize=70&fontColor=00e5ff&fontAlignY=40&desc=SYSTEM%20ONLINE%20%7C%20INITIALIZING%20PROFILE...&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+booting+julia.dev...;%3E+loading+modules%3A+java%2C+oop%2C+clean-code;%3E+status%3A+online+%E2%9C%94;%3E+welcome+to+my+core+system" alt="Typing SVG" />
 </a>
@@ -132,7 +132,7 @@ Sistema de gerenciamento de tarefas construído em **Java**, aplicando Programa�
 
 
 
-<!-- ===================== RODAPÉ ===================== -->
+
 <div align="center">
 
 ### `<Conecte-se />`
