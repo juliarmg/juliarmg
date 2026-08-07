@@ -26,20 +26,20 @@
 
 ```yaml
 sistema:
-  nome: "Julia Rego Magalhães"
-  funcao: "Desenvolvedora de Software"
+  nome: Julia Rego Magalhães
+  funcao: Desenvolvedora de Software
   foco:
-    - "Programação orientada a objetos (Java)"
-    - "Boas práticas e arquitetura de código limpo"
-  filosofia: "Código bem estruturado é a base de tudo"
-  status_atual: "Aprofundando Java e evoluindo projetos pessoais"
+    - Programação orientada a objetos (Java)
+    - Boas práticas e arquitetura de código limpo
+  filosofia: Código bem estruturado é a base de tudo
+  status_atual: Aprofundando Java e evoluindo projetos pessoais
 ```
 
 <div align="left">
 
 🔹 Estudante e desenvolvedora, focada em **lógica, estrutura e boas práticas de código**  
 🔹 Trabalha principalmente com **Java**, aplicando conceitos sólidos de POO   
-🔹 Em constante evolução — sempre estudando, sempre construindo
+🔹 Em constante evolução. Sempre estudando, sempre construindo
 
 </div>
 
@@ -63,7 +63,7 @@ sistema:
 
 | 🧠 Categoria | 🛠️ Ferramentas |
 |:---:|:---:|
-| **IDEs** | IntelliJ IDEA, Visual Studio Code |
+| **IDEs** | IntelliJ IDEA, Visual Studio Code , Eclipse|
 | **Sistema Operacional** | Windows |
 | **Linguagens** | Java, JavaScript, HTML, CSS |
 | **Controle de Versão** | Git & GitHub |
