@@ -139,7 +139,7 @@ Sistema de gerenciamento de tarefas constru√≠do em **Java**, aplicando Programa√
 
 ### `<Conecte-se />`
 
-<a href="https://www.linkedin.com/in/juliaregomag" target="_blank">
+<a href="www.linkedin.com/in/juliaregomag" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0d47a1?style=for-the-badge&logo=linkedin&logoColor=00e5ff" />
 </a>
 <a href="mailto:juliarmcode@gmail.com">
