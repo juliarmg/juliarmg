@@ -31,7 +31,6 @@ sistema:
   foco:
     - "Programação orientada a objetos (Java)"
     - "Boas práticas e arquitetura de código limpo"
-    - "Front-end com HTML, CSS e JavaScript"
   filosofia: "Código bem estruturado é a base de tudo"
   status_atual: "Aprofundando Java e evoluindo projetos pessoais"
 ```
