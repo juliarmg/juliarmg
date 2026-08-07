@@ -142,7 +142,7 @@ Sistema de gerenciamento de tarefas constru√≠do em **Java**, aplicando Programa√
 <a href="https://www.linkedin.com/in/juliaregomag" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0d47a1?style=for-the-badge&logo=linkedin&logoColor=00e5ff" />
 </a>
-<a href="mailto:juliarmcode@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=juliarmcode@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-020024?style=for-the-badge&logo=gmail&logoColor=00e5ff" />
 </a>
 <a href="https://github.com/juliarmg" target="_blank">
