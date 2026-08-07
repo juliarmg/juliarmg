@@ -26,8 +26,7 @@
 
 ```yaml
 sistema:
-  nome: "Julia"
-  identidade: "Julia Dev"
+  nome: "Julia Rego Magalhães"
   funcao: "Desenvolvedora de Software"
   foco:
     - "Programação orientada a objetos (Java)"
