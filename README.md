@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ===================== BANNER PRINCIPAL ===================== -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:0a0a2e,100:0d47a1&height=280&section=header&text=JULIA%20DEV&fontSize=70&fontColor=00e5ff&fontAlignY=40&desc=SYSTEM%20ONLINE%20%7C%20INITIALIZING%20PROFILE...&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
