@@ -18,8 +18,7 @@ Sistema de gerenciamento de tarefas construído em Java, aplicando Programação
 
 `Status: concluído`
 
-> Mais projetos em desenvolvimento — este README é atualizado conforme novos sistemas entram online.
-
+> Mais projetos em desenvolvimento.
 ---
 
 ## Tecnologias e Ferramentas
