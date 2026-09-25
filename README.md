@@ -35,7 +35,7 @@ Sistema de gerenciamento de tarefas construído em Java, aplicando Programação
 
 ## Contato
 
-📧 juliarmcode@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](www.linkedin.com/in/juliaregomag) &nbsp;|&nbsp; 📍 Fortaleza, CE
+📧 juliarmcode@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/juliaregomag) &nbsp;|&nbsp; 📍 Fortaleza, CE
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:0a0a2e,100:020024&height=120&section=footer"/>
